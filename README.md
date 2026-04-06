@@ -1,4 +1,4 @@
-privew: zxportofolio.netlify.app
+privew: https://zxportofolio.netlify.app
 
 # waibsait portofolio
 
